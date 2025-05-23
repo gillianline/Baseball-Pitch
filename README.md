@@ -22,9 +22,9 @@ Output: Two line graphs showing strikeout effectiveness by pitch type
 
 
 Python Requirements:
-pandas
-numpy
-matplotlib
+pandas,
+numpy,
+matplotlib,
 scikit-learn
 
 | Script                       | Visual             | Key Insight                                  |
