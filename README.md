@@ -21,7 +21,7 @@ Inputs: PitchCall, PitchType, GamePk
 Output: Two line graphs showing strikeout effectiveness by pitch type
 
 
-Python Requirements
+Python Requirements:
 pandas
 numpy
 matplotlib
