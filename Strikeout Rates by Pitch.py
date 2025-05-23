@@ -38,6 +38,6 @@ plt.xticks(rotation=45)
 
 plt.tight_layout()  
 
-# Display or save the graphs
+
 plt.show()
 
